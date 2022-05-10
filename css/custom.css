@@ -1,0 +1,28 @@
+.navbar .navbar-brand {
+    color: #ff8dff;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.dropdown-menu{
+    background-color: #eaa6ff;
+    text-decoration-color: #ffffff;
+}
+
+.carousel-item{
+    position: relative;
+    text-align: center;
+}
+
+.carousel-item active{
+    position: relative;
+    text-align: center;
+}
+
+.d-flex {
+    background-color:#ffffff;
+}
+
+
+
+
+
